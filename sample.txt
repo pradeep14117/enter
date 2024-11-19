@@ -1,6 +1,1 @@
-cat
-dog
-hourse
-elephant
-picock
-king
+
